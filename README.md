@@ -4,8 +4,7 @@ Thanks By: ./KangSate
 👨‍👩‍👧‍👦 LAPORAN DATA KARTU KELUARGA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📊 INFORMASI SUMBER DATA
-🏛️ Database Utama: Edabu
+📊 INFORMASI SUMBER DATA REALTIME LOCATION
 🔐 Status Validasi: ✅ Terverifikasi
 📅 Waktu Pencarian: 10/9/2025, 21.31.32
 
